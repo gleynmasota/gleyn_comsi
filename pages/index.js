@@ -1,14 +1,12 @@
-import Hero from '../components/Hero';
-import Blog from '../components/Blog';
-import Contact from '../components/Contact';
 
+
+import Blog from "./Blog";
 
 export default function Home() {
   return (
-    <>
-      <Hero />
-      <Blog />
-      <Contact />
-    </>
+   <div>
+     <Blog />
+   </div>
   );
 }
+
