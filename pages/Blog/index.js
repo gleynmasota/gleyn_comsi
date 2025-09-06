@@ -44,7 +44,7 @@ const Index = () => {
                 <h2 className="tracking-widest text-xs title-font font-semibold text-pink-500 mb-1">Intramurals</h2>
                 <h1 className="title-font text-2xl font-bold text-gray-900 mb-3">Be ready for upcoming Intramurals</h1>
                 <p className="leading-relaxed mb-5 text-gray-700">
-                  To all franciscans, let's show our school spirit and participate actively in the upcoming intramurals!
+                   To all franciscans, let&apos;s show our school spirit and participate actively in the upcoming intramurals!
                 </p>
                 <a className="inline-flex items-center cursor-pointer hover:opacity-80">
                   <img
@@ -70,7 +70,7 @@ const Index = () => {
                 <h2 className="tracking-widest text-xs title-font font-semibold text-pink-500 mb-1">Christmas part</h2>
                 <h1 className="title-font text-2xl font-bold text-gray-900 mb-3">Up coming Christmas party</h1>
                 <p className="leading-relaxed mb-5 text-gray-700">
-                  For the upcoming Christmas party, let's all come together and celebrate the season of giving!
+                 For the upcoming Christmas party, let&apos;s all come together and celebrate the season of giving!
                 </p>
                 <a className="inline-flex items-center cursor-pointer hover:opacity-80">
                   <img
